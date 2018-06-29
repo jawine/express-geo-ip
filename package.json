@@ -1,0 +1,15 @@
+{
+  "name": "express-geo-ip",
+  "version": "1.0.0",
+  "description": "A RESTful IP geolocation service ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Wineland",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "geoip-lite": "^1.2.2"
+  }
+}
